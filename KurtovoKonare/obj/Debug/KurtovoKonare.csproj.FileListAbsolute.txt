@@ -1,0 +1,6 @@
+c:\users\jericho\documents\visual studio 2015\Projects\PolymorphismHW\KurtovoKonare\bin\Debug\KurtovoKonare.exe.config
+C:\Users\Jericho\documents\visual studio 2015\Projects\PolymorphismHW\KurtovoKonare\bin\Debug\KurtovoKonare.exe
+C:\Users\Jericho\documents\visual studio 2015\Projects\PolymorphismHW\KurtovoKonare\bin\Debug\KurtovoKonare.pdb
+C:\Users\Jericho\documents\visual studio 2015\Projects\PolymorphismHW\KurtovoKonare\obj\Debug\KurtovoKonare.csprojResolveAssemblyReference.cache
+C:\Users\Jericho\documents\visual studio 2015\Projects\PolymorphismHW\KurtovoKonare\obj\Debug\KurtovoKonare.exe
+C:\Users\Jericho\documents\visual studio 2015\Projects\PolymorphismHW\KurtovoKonare\obj\Debug\KurtovoKonare.pdb
